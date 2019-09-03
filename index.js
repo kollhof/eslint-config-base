@@ -218,7 +218,6 @@ module.exports = {
       destructuring: 'all',
       ignoreReadBeforeAssign: false
     }],
-    'prefer-reflect': 'error',
     'prefer-rest-params': 'error',
     'prefer-spread': 'error',
     'prefer-template': 'error',
