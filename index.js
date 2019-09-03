@@ -155,6 +155,7 @@ module.exports = {
     'no-array-constructor': 'error',
     'no-bitwise': 'off',
     'no-continue': 'error',
+    'no-duplicate-imports': 'error',
     'no-lonely-if': 'error',
     'no-mixed-spaces-and-tabs': 'error',
     'no-multiple-empty-lines': ['error', {max: 2}],
